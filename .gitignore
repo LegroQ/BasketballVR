@@ -1,0 +1,22 @@
+# IDE
+.vscode/
+.idea/
+*.code-workspace
+
+# Platform
+.DS_Store
+
+# Unity
+Logs/
+Temp/
+Library/
+obj/
+UserSettings/
+build/
+
+
+*.csproj
+*.sln
+*.log
+*.meta
+!*.*.meta
